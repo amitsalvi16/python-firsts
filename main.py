@@ -10,9 +10,7 @@ def main():
 
     volume = 1
     loops = 0
-
-    print('type "up" or "down" to change volume')
-    print('type "loop" to add another loop')
+  
     print('press enter to play/pause')
 
     while True:
